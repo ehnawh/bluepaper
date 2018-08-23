@@ -289,7 +289,7 @@ GXC는 3.2.1에서 제시했던 논조에서 밝혔던 것처럼, 스마트 컨�
 
 ### 3.2.4. Native action rule
 
-이 장에서 기술되는 native action을 통해 생성되는 자원은 특수한 유형의 자원으로 계산되며, Ram에 저장되는 형식도 EOSIO의 Multi-index token 형태에서 벗어난 형태를 따른다. 토큰의 발행 및 전송에 드는 자원은 별도로 할당한 CPU와 RAM을 이용하게 되어 있으며, 네트워크의 특정 부하 이상을 차지않는 이상 3.2.6의 fee를 제외한 자원은 DApp 개발자나, 사용자에게 전가되지 않는다. 이는 waves 플랫폼(https://wavesplatform.com/product)에서 값싸게 token제작 및 전송을 지원하는 방식과 유사하다.
+이 장에서 기술되는 native action을 통해 생성되는 자원은 특수한 유형의 자원으로 계산되며, Ram에 저장되는 형식도 EOSIO의 Multi-index token 형태에서 벗어난 형태를 따른다. 토큰의 발행 및 전송에 드는 자원은 별도로 할당한 CPU와 RAM을 이용하게 되어 있으며, 네트워크의 특정 부하 이상을 차지않는 이상 3.2.6의 fee를 제외한 자원은 DApp 개발자나, 사용자에게 전가되지 않는다. 이는 [waves 플랫폼](https://wavesplatform.com/product)에서 값싸게 token제작 및 전송을 지원하는 방식과 유사하다.
 
 ### 3.2.5. Type of Native Action
 #### 3.2.5.1. Game Contract
